@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DedFlanders
-- 🌱 I’m currently studying Mechatronics Engineering and Computer Science at the Universty of New South Wales
+- 🌱 I’m currently studying Electrical Engineering and Computer Science at the Universty of New South Wales
 
 
 <!---
